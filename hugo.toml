@@ -1,4 +1,4 @@
 baseURL = 'https://brightredtechnologies.com/'
 languageCode = 'en-us'
 title = 'Bright Red Technologies'
-theme = 'ananke'
+theme = 'papermod'
