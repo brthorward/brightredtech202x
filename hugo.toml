@@ -8,6 +8,7 @@ theme = 'papermod'
   breadcrumbSeparator = "›"
   breadcrumbHomeLabel = "Home"
   breadcrumbCurrentLabel = "You are here"
+  cover.relative = true
 
 [menu]
   [[menu.main]]
