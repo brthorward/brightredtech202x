@@ -7,7 +7,7 @@ draft = false
 #### _Disclosure: Some links on this page are monetized by affiliate programs such as Amazon. Bright Red Technologies may earn a commission if you make a purchase after clicking on those links. All prices are subject to change, and this article only reflects the prices available at time of publication._
 
 
-If you want to experiment with various Language Learning Models (LLMs) on your own computer, here are the general steps you can follow:
+### If you want to experiment with various Language Learning Models (LLMs) on your own computer, here are the general steps you can follow:
 
 1. **Choose a Programming Language**: The first step is to choose a programming language that you are comfortable with. Python is the most commonly used language in the field of machine learning, and many LLMs have pre-built Python libraries.
 
