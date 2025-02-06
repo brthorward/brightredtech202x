@@ -11,7 +11,7 @@ In today's digital age, the debate between digital and paper notebooks for work 
 Digital notebooks offer numerous advantages. Firstly, they provide unparalleled organization capabilities. Users can easily categorize, tag, and search their notes, making information retrieval quick and efficient. This is particularly useful for students or professionals dealing with large volumes of information across various subjects or projects. Secondly, digital notes are highly portable. With cloud synchronization, notes are accessible from multiple devices, ensuring that important information is always at your fingertips, whether you're at home, in the office, or on the go.
 
 {{< rawhtml >}}
-<a href="https://amzn.to/3WNRSWw">Check out a highly rated digital notebook</a>
+<a href="https://amzn.to/3WNRSWw">This digital notebook feels like writing on paper</a>
 {{< /rawhtml >}}
 
 
