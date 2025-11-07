@@ -16,7 +16,7 @@ type        = "article"
 
 ## 🎯 Quick Overview
 
-If you’re hunting for a **fan‑less, ultra‑compact mini PC** powered by Intel’s latest Alder Lake‑N platform, this model on Amazon is worth a glance. Below the intro you’ll find a prominent “Buy on Amazon” button that drives the affiliate link directly.
+If you’re hunting for a **fan‑less, ultra‑compact mini PC** powered by Intel’s latest Alder Lake‑N platform, this model on Amazon is worth a glance. Below the intro you’ll find a prominent “Buy on Amazon” button that drives the affiliate link directly!
 
 {{< button url="https://amzn.to/3Wr6Q4x" class="primary" target="_blank" >}}Buy on Amazon – ${{< placeholder >}} {{< /button >}}
 
