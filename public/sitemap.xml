@@ -3,13 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-28T19:13:27-04:00</lastmod>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/digital-notebooks-or-paper/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-28T19:13:27-04:00</lastmod>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/crowdsourced-crypto-lending/borrowing/</loc>
+    <lastmod>2025-01-25T17:00:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tinker-with-ai-at-home/</loc>
+    <lastmod>2025-01-21T21:52:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experimenting-with-llm-on-your-own-machine/</loc>
+    <lastmod>2025-01-20T21:23:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content-creators-may-choose-a-linux-based-computer-over-windows/</loc>
+    <lastmod>2025-01-20T15:11:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alder-lake-n/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/embedded/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fanless/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fanless-mini-pc-alder-lake-n/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hardware-review/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mini-pc/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-20T12:30:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/what-is-crm/</loc>
+    <lastmod>2025-01-15T07:02:54-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-explosive-market-of-ai-backed-software-tools-a-game-changer-for-industries/</loc>
+    <lastmod>2025-01-13T20:01:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-01-12T10:01:47-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/faq/</loc>
+    <lastmod>2025-01-12T10:01:47-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-01-11T22:01:47-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hello-world/</loc>
+    <lastmod>2024-09-28T19:13:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

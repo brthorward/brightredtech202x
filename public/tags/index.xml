@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Bright Red Technologies</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Bright Red Technologies</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 12:30:13 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alder Lake N</title>
+      <link>http://localhost:1313/tags/alder-lake-n/</link>
+      <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/alder-lake-n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded</title>
+      <link>http://localhost:1313/tags/embedded/</link>
+      <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/embedded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fanless</title>
+      <link>http://localhost:1313/tags/fanless/</link>
+      <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fanless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware Review</title>
+      <link>http://localhost:1313/tags/hardware-review/</link>
+      <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/hardware-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mini Pc</title>
+      <link>http://localhost:1313/tags/mini-pc/</link>
+      <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/mini-pc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

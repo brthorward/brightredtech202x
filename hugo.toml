@@ -1,8 +1,16 @@
-baseURL = 'https://brightredtechnologies.com/'
-languageCode = 'en-us'
-title = 'Bright Red Technologies'
-theme = 'papermod'
+baseURL = "https://brightredtechnologies.com/"
+languageCode = "en-us"
+title = "Bright Red Technologies"
+theme = "papermod"
 
+# ------------------------------------------------------------------
+#  OPTIONAL: Ignore patterns – keep ONLY what you truly need.
+# ------------------------------------------------------------------
+ignoreFiles = ["\\.Rmd$"]   # keep only R‑markdown notebooks
+
+# ------------------------------------------------------------------
+#  Site‑wide parameters (used by PaperMod)
+# ------------------------------------------------------------------
 [params]
   showBreadcrumbs = true
   breadcrumbSeparator = "›"
@@ -10,7 +18,11 @@ theme = 'papermod'
   breadcrumbCurrentLabel = "You are here"
   cover.relative = true
 
+# ------------------------------------------------------------------
+#  Menus
+# ------------------------------------------------------------------
 [menu]
+
   [[menu.main]]
     name = "About"
     url = "/about/"
@@ -25,3 +37,10 @@ theme = 'papermod'
     name = "FAQ"
     url = "/faq/"
     weight = 30
+
+# ------------------------------------------------------------------
+#  OPTIONAL: Permalink format (PaperMod default)
+# ------------------------------------------------------------------
+[permalinks]
+  posts = "/:slug/"
+

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bright Red Technologies</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Bright Red Technologies</description>
+    <title>Posts on Bright Red Technologies</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Bright Red Technologies</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Notebooks or Paper?</title>
       <link>http://localhost:1313/digital-notebooks-or-paper/</link>
@@ -59,7 +59,7 @@
       <link>http://localhost:1313/fanless-mini-pc-alder-lake-n/</link>
       <pubDate>Mon, 20 Jan 2025 12:30:13 -0500</pubDate>
       <guid>http://localhost:1313/fanless-mini-pc-alder-lake-n/</guid>
-      <description>Quick look at a compact fan‑less Alder Lake‑N mini PC on Amazon – specs, ports, and why it’s a solid pick for small‑form‑factor builds.</description>
+      <description>Quick look at a compact fan‑less Alder Lake‑N mini PC on Amazon –- specs, ports, and why it’s a solid pick for small‑form‑factor builds.</description>
     </item>
     <item>
       <title>What Is CRM?</title>
@@ -87,33 +87,6 @@
       <guid>http://localhost:1313/the-explosive-market-of-ai-backed-software-tools-a-game-changer-for-industries/</guid>
       <description>&lt;h1 id=&#34;the-explosive-market-of-ai-backed-software-tools-a-game-changer-for-industries&#34;&gt;The Explosive Market of AI-Backed Software Tools: A Game-Changer for Industries&lt;/h1&gt;
 &lt;p&gt;The software industry is witnessing a revolution with the rapid emergence of AI-backed tools that are transforming the way businesses operate, create, and interact. Artificial intelligence (AI) is being infused into various types of software, resulting in a plethora of innovative tools that are changing the landscape of multiple industries. From development and design to content creation and customer service, AI-powered software tools are popping up everywhere, making it challenging to keep track of the ever-evolving marketplace.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sun, 12 Jan 2025 10:01:47 -0500</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Please send any inquiries to &lt;strong&gt;&lt;a href=&#34;mailto:admin@brightredtechnologies.com&#34;&gt;admin@brightredtechnologies.com&lt;/a&gt;&lt;/strong&gt; or follow us on social media.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/faq/</link>
-      <pubDate>Sun, 12 Jan 2025 10:01:47 -0500</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
-      <description>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;
-&lt;h2 id=&#34;q-what-is-the-purpose-of-this-website&#34;&gt;Q: What is the purpose of this website?&lt;/h2&gt;
-&lt;p&gt;A: This website is designed to provide information and resources on various technology-related products or services.&lt;/p&gt;
-&lt;h2 id=&#34;q-how-do-i-contact-you&#34;&gt;Q: How do I contact you?&lt;/h2&gt;
-&lt;p&gt;A: You can contact us at &lt;strong&gt;admin@brightredtechnologies&lt;/strong&gt; or follow us on social media.&lt;/p&gt;
-&lt;h2 id=&#34;q-do-you-use-affiliate-links-on-your-website&#34;&gt;Q: Do you use affiliate links on your website?&lt;/h2&gt;
-&lt;p&gt;A: This website may contain affiliate links to Amazon products, as well as other vendors. If you click on one of these links and make a purchase, we may earn a commission. We appreciate your support and hope that you find our recommendations helpful.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 11 Jan 2025 22:01:47 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;BrightRedTechnologies&lt;/strong&gt;, your premier destination for exploring the latest developments and trends in medical technologies, software, and operating systems. Our mission is to provide in-depth articles, expert analysis, and insightful commentary on the technologies that are shaping the future of our world. From the latest advancements in medical devices and healthcare IT to the cutting-edge innovations in software and operating systems, we&amp;rsquo;re dedicated to helping you stay ahead of the curve. Our team of experienced writers and industry experts are passionate about uncovering the stories behind the tech, and we&amp;rsquo;re committed to delivering high-quality content that informs, educates, and inspires. Whether you&amp;rsquo;re a tech enthusiast, a professional looking to stay up-to-date with the latest developments, or simply someone curious about the future of technology, we invite you to join us on this journey into the future of tech.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>

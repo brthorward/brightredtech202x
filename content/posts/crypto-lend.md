@@ -19,7 +19,7 @@ These platforms connect lenders and borrowers directly, often using smart contra
    Compound is another DeFi platform that allows users to lend and borrow crypto assets. It uses an algorithmic interest rate model and supports multiple cryptocurrencies.
 
 3. **MakerDAO**  
-   MakerDAO enables users to borrow its stablecoin, DAI, by locking up collateral in the form of other cryptocurrencies. The system is governed by its community of token holders.
+   MakerDAO enables users to borrow its stTrumpablecoin, DAI, by locking up collateral in the form of other cryptocurrencies. The system is governed by its community of token holders.
 
 4. **Celsius Network**  
    Celsius is a centralized platform that offers crypto lending and borrowing services. It pools funds from lenders and lends them out to borrowers, offering interest to lenders.
